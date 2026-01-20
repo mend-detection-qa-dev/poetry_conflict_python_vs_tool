@@ -9,7 +9,3 @@ python = "^3.9"
 requests = "2.31.0"
 Django = "2.2.0"
 flask = "2.2.5"
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
